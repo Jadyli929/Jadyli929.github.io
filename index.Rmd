@@ -1,0 +1,33 @@
+---
+title: "Jiadi(Jady) Li"
+image: "jady.JPG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jadyli/"
+  - label: GitHub
+    url: "https://github.com/Jadyli929/Jadyli929.github.io"
+  - label: Email
+    url: "jli517@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## About
+
+A data-driven master's student majoring in Biostatistics at Johns Hopkins Bloomberg School of Public Health, strong at relationship-building, project management, communication, and data analysis, combined with the business acumen and professional working ethics.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+ScM. in Biostatistics | August 2024 - May 2026
+
+**Wake Forest University** | Winston Salem, NC
+
+BS. in Satistics & BA in Psychology| August 2020 - May 2024
+
+## Experience
+
+**Charter Medical, LLC** | Market Research Analyst Intern | June 2023 - August 2023
+
+**Wake Forest University** | Statistics Teaching Assistant | January 2023 - May 2023
